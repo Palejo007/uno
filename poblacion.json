@@ -1,0 +1,154 @@
+﻿[
+                    {
+                        "Agno": 2020,
+                        "Periodo": "Semestre 2",
+                        "Parametro": "Andalucía",
+                        "Valor": 34263,
+                        "Estado": "Provisional",
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2020,
+                        "Periodo": "Semestre 2",
+                        "Parametro": "Aragón",
+                        "Valor": 7037,
+                        "Estado": "Provisional",
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2020,
+                        "Periodo": "Semestre 2",
+                        "Parametro": "Asturias",
+                        "Valor": -4614,
+                        "Estado": "Provisional",
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2020,
+                        "Periodo": "Semestre 2",
+                        "Parametro": "Canarias",
+                        "Valor": 24265,
+                        "Estado": "Provisional",
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2020,
+                        "Periodo": "Semestre 2",
+                        "Parametro": "Cantabria",
+                        "Valor": 476,
+                        "Estado": "Provisional",
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2020,
+                        "Periodo": "Semestre 2",
+                        "Parametro": "Castilla y León",
+                        "Valor": -11421,
+                        "Estado": "Provisional",
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2020,
+                        "Periodo": "Semestre 2",
+                        "Parametro": "Castilla-La Mancha",
+                        "Valor": 4428,
+                        "Estado": "Provisional",
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2020,
+                        "Periodo": "Semestre 2",
+                        "Parametro": "Cataluña",
+                        "Valor": 45273,
+                        "Estado": "Provisional",
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2020,
+                        "Periodo": "Semestre 2",
+                        "Parametro": "Ceuta",
+                        "Valor": -470,
+                        "Estado": "Provisional",
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2020,
+                        "Periodo": "Semestre 2",
+                        "Parametro": "Comunidad Valenciana",
+                        "Valor": 36657,
+                        "Estado": "Provisional",
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2020,
+                        "Periodo": "Semestre 2",
+                        "Parametro": "Extremadura",
+                        "Valor": -3535,
+                        "Estado": "Provisional",
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2020,
+                        "Periodo": "Semestre 2",
+                        "Parametro": "Galicia",
+                        "Valor": -202,
+                        "Estado": "Provisional",
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2020,
+                        "Periodo": "Semestre 2",
+                        "Parametro": "Islas Baleares",
+                        "Valor": 17093,
+                        "Estado": "Provisional",
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2020,
+                        "Periodo": "Semestre 2",
+                        "Parametro": "La Rioja",
+                        "Valor": 1696,
+                        "Estado": "Provisional",
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2020,
+                        "Periodo": "Semestre 2",
+                        "Parametro": "Madrid",
+                        "Valor": 69096,
+                        "Estado": "Provisional",
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2020,
+                        "Periodo": "Semestre 2",
+                        "Parametro": "Melilla",
+                        "Valor": -115,
+                        "Estado": "Provisional",
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2020,
+                        "Periodo": "Semestre 2",
+                        "Parametro": "Murcia",
+                        "Valor": 14055,
+                        "Estado": "Provisional",
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2020,
+                        "Periodo": "Semestre 2",
+                        "Parametro": "Navarra",
+                        "Valor": 4655,
+                        "Estado": "Provisional",
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2020,
+                        "Periodo": "Semestre 2",
+                        "Parametro": "País Vasco",
+                        "Valor": 7571,
+                        "Estado": "Provisional",
+                        "Notas": null
+                    }
+                ]
